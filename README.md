@@ -1,2 +1,2 @@
-# brigadehub.github.io
-Landing page for the brigadehub platform.
+# brigadehub.codeforsanfrancisco.org
+The landing page for Brigadehub

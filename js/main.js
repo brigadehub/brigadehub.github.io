@@ -1,4 +1,4 @@
-;(function ($) {
+;(function ($, _) {
   var App = { init: function () {
       App.ScrollToSomeplace() // script resposible for smooth scrolling after clicking on menu item
       App.Nivo_Lightbox() // lightbox
@@ -18,13 +18,16 @@
       var menuItems = topMenu.find('a')
 			menuItems.push($('.cta_button_area > a')[0])
       var scrollItems = menuItems.map(function () {
+        var href = $(this).attr('href')
+        if (href.indexOf('http') > -1) { return }
+        if (href.indexOf('mailto') > -1) { return }
         var item = $($(this).attr('href'))
         if (item.length) { return item; }
       })
 
       menuItems.click(function (e) {
-        var href = $(this).attr('href'),
-          offsetTop = href === '#' ? 0 : $(href).offset().top - navbarheight + 25
+        var href = $(this).attr('href')
+        var offsetTop = href === '#' ? 0 : $(href).offset().top - navbarheight + 25
         $('html, body').stop().animate({ scrollTop: offsetTop  }, 1000, 'easeInOutExpo')
         e.preventDefault()
       })
@@ -98,6 +101,7 @@
         setTimeout(function () {$('.content_anim27').addClass('animated fadeInUp')}, 0)
         setTimeout(function () {$('.content_anim28').addClass('animated fadeInUp')}, 200)
         setTimeout(function () {$('.content_anim29').addClass('animated fadeInUp')}, 400)
+        setTimeout(function () {$('.content_anim30').addClass('animated fadeInUp')}, 600)
       }, { offset: '50%' })
     },
 
@@ -113,4 +117,4 @@
     App.init()
     $(window).resize()
   })
-})(jQuery);
+})(jQuery, _);

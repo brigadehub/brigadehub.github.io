@@ -750,3 +750,42 @@ img.icon {
 	height: 16px;
 	margin-right: 10px;
 }
+
+p.social {
+  text-align: right;
+  margin: 0px;
+}
+#footer p.social {
+	display: inline-block;
+  line-height: 234%;
+}
+p.social a {
+  margin: 0 10px 0 0;
+  color: #fff;
+  display: inline-block;
+  width: 26px;
+  height: 26px;
+  border-radius: 13px;
+  line-height: 26px;
+  font-size: 15px;
+  text-align: center;
+  -webkit-transition: all 0.2s ease-out;
+  -moz-transition: all 0.2s ease-out;
+  transition: all 0.2s ease-out;
+  vertical-align: bottom;
+}
+p.social a i {
+	margin:0;
+}
+p.social a.github {
+  background-color: #000 !important;
+}
+p.social a.slack {
+  background-color: #e1a749 !important;
+}
+p.social a.twitter {
+  background-color: #3cf !important;
+}
+p.social a.email {
+  background-color: #4a7f45 !important;
+}

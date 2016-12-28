@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="193px" height="192px" viewBox="0 0 193 192" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>Slice 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="const_tools" transform="translate(-183.000000, -808.000000)">
+            <polygon id="Fill-1" fill="#FFFFFF" points="0.06 1199.94 1280 1199.94 1280 0 0.06 0"></polygon>
+            <path d="M375.813,904 C375.813,957.02 332.832,1000 279.813,1000 C226.793,1000 183.813,957.02 183.813,904 C183.813,850.98 226.793,808 279.813,808 C332.832,808 375.813,850.98 375.813,904" id="Fill-7" fill="#AFAFAB"></path>
+            <path d="M256,948 C256,959.045 247.047,968 236,968 C224.953,968 216,959.045 216,948 C216,936.955 224.953,928 236,928 L256,928 L256,948" id="Fill-8" fill="#4CBAB7"></path>
+            <path d="M256,896 L252,896 L256,896 Z M252,896 L252,928 L252,896 Z M256,948 C256,959.045 247.047,968 236,968 C224.953,968 216,959.045 216,948 C216,936.955 224.953,928 236,928 L256,928 L256,948 Z" id="Stroke-9" stroke="#0A0A08" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M236,936 C229.373,936 224,941.373 224,948 C224,954.627 229.373,960 236,960 C242.627,960 248,954.627 248,948 C248,941.373 242.627,936 236,936 Z" id="Stroke-10" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <polygon id="Fill-11" fill="#F6E667" points="268 968 284 968 284 864 268 864"></polygon>
+            <polygon id="Fill-12" fill="#DE485D" points="268 960 284 960 284 912 268 912"></polygon>
+            <polyline id="Fill-13" fill="#666763" points="252 864 300 864 300 856 292 840 252 840 252 864"></polyline>
+            <path d="M252,864 L300,864 L300,856 L292,840 L252,840 L252,864 Z M268,968 L284,968 L284,864 L268,864 L268,968 Z M284,912 L268,912 L284,912 Z M284,960 L268,960 L284,960 Z M300,856 L252,856 L300,856 Z" id="Stroke-14" stroke="#0A0A08" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M276,920 L276,952" id="Stroke-15" stroke="#0A0A08" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,8"></path>
+            <polygon id="Stroke-16" stroke="#0A0A08" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" points="252 864 300 864 300 856 292 840 252 840"></polygon>
+            <path d="M324,873.676 L324,892 L308,892 L308,873.676 C300.939,876.762 296,883.801 296,892 C296,900.199 300.939,907.238 308,910.324 L308,960 C308,964.418 311.582,968 316,968 C320.418,968 324,964.418 324,960 L324,910.324 C331.061,907.238 336,900.199 336,892 C336,883.801 331.061,876.762 324,873.676" id="Fill-17" fill="#CDCCC7"></path>
+            <path d="M324,873.676 L324,892 L308,892 L308,873.676 C300.939,876.762 296,883.801 296,892 C296,900.199 300.939,907.238 308,910.324 L308,960 C308,964.418 311.582,968 316,968 C320.418,968 324,964.418 324,960 L324,910.324 C331.061,907.238 336,900.199 336,892 C336,883.801 331.061,876.762 324,873.676 Z" id="Stroke-18" stroke="#0A0A08" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+        </g>
+    </g>
+</svg>

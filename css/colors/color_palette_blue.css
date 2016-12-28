@@ -1,0 +1,30 @@
+/*------------------------------------------------------------------
+[Stylesheet]
+Color Palette - Blue
+-------------------------------------------------------------------*/
+
+.btn,
+.btn-large {
+	background-color: #d1163d;
+}
+
+.btn:hover,
+.btn-large:hover {
+	background-color: #e71843;
+}
+
+.hero_fullscreen.background_solid,
+.color_bg{
+	background-color: #399fd2;
+	color: white;
+}
+.hero_fullscreen {
+	background: url('../../images/landing_bg.jpg');
+}
+a {
+	color:#ff5722
+}
+
+.mdl-color--primary {
+	background-color: #399fd2 !important;
+}

@@ -19,7 +19,11 @@ Color Palette - Blue
 	color: white;
 }
 .hero_fullscreen {
-	background: url('../../images/landing_bg.jpg');
+	background: url('../../images/landing_bg_bw.jpg');
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 a {
 	color:#ff5722

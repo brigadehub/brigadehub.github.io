@@ -140,7 +140,7 @@ Author:         Mat Przegietka
 
 /* Content animations */
 
-.loaded .top_bar,
+/*.loaded .top_bar,
 .loaded .content_container h2,
 .loaded .content_container h6,
 .loaded .cta_button_area,
@@ -185,7 +185,7 @@ Author:         Mat Przegietka
 .loaded .home_mockups_3 {
 	animation-delay: 1.5s;
     -webkit-animation-delay: 1.5s;
-}
+}*/
 
 @keyframes animLoadedContent {
     from {
@@ -357,8 +357,7 @@ html {
 .home_mockups {
 	position:relative;
 	margin-top:3rem;
-	margin-bottom:-1rem;
-	z-index:3
+	z-index:1
 }
 
 .home_mockups_2, .home_mockups_3 {
